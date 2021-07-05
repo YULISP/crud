@@ -1,0 +1,2 @@
+// crear persona
+create table persona(id int auto_increment primary key, nombre varchar(20), edad varchar(20), sexo varchar(20), rfc varchar(20));
